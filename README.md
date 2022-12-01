@@ -2,8 +2,9 @@
 
 - 🌱 I’m currently learning Software Engineering and full-stack
 - 📫 How to reach me lenitamaciel.ti@gmail.com
-- 😄 Pronouns: she/her
 - 🌎 Country: Brazil
+- 😄 Pronouns: she/her
+
 
 ## Hi! I am Lenita Maciel, software engineering student and future full-stack developer 👾
 <div align="center">

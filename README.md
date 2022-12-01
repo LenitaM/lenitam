@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning Software Engineering and full-stack
 - 📫 How to reach me lenitamaciel.ti@gmail.com
 - 😄 Pronouns: she/her
+- 🌎 Country: Brazil
 
 ## Hi! I am Lenita Maciel, software engineering student and future full-stack developer 👾
 <div align="center">
@@ -28,7 +29,6 @@
   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
   
   <img align="center" alt="Lenita-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  
   <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://cdn.picrew.me/shareImg/org/202212/338224_4KIhij8i.png">
 </div>
   

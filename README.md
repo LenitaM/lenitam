@@ -20,6 +20,9 @@
   <img align="center" alt="Lenita-CSS" height="30" width="40"  
   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
   <img align="center" alt="Lenita-Angular" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg">
+  <img align="center" alt="Lenita-Bootstrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg">
+  <img align="center" alt="Lenita-Git" height="30" width="40" 
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
   
   <img align="center" alt="Lenita-Java" height="30" width="40"
   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">

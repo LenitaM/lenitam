@@ -6,8 +6,9 @@
 - 😄 Pronouns: she/her
 
 
-## Hi! I am Lenita Maciel, software engineering student and future full-stack developer 👾
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFD700&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Lenita+Maciel;I'm+from+Pernambuco,+Brazil;I+study+software+engineering;My+prounouns+is+She+/+Her;Be+Welcome!+:%29)](https://git.io/typing-svg)
 <div align="center">
+  
   <a href="https://github.com/LenitaM">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lenitam&show_icons=true&theme=codeSTACKr&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lenitam&layout=compact&langs_count=7&theme=codeSTACKr"/>

@@ -21,6 +21,8 @@
   
   <img align="center" alt="Lenita-Java" height="30" width="40"
   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
+   <img align="center" alt="Lenita-sap" height="30" width="40"
+  src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg](https://icons8.com.br/icon/38192/sap)">
   <img align="center" alt="Lenita-Spring" height="30" width="40"
   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg">
   <img align="center" alt="Lenita-MySQL" height="30" width="40"
